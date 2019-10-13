@@ -1,0 +1,5 @@
+shop\controller\ProductController.class
+shop\repo\ProductRepository.class
+shop\SwaggerConfig.class
+shop\model\Product.class
+shop\Application.class
